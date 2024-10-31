@@ -11,3 +11,4 @@ yourok/torrserver:latest
 journey0ad/bitmagnet-next-web:latest
 biarms/mysql:5.7.33-beta-circleci
 imzcc/openresty:1.21.4.1-7-alpine
+cyberbolt/baota:latest
