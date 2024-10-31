@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 hectorqin/reader:latest
 haroldli/alist-tvbox:latest
-eugene91cn/campus-imaotai:latest
+oddfar/campus-imaotai:latest
