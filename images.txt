@@ -7,3 +7,5 @@ xhofe/alist:latest
 hectorqin/reader:latest
 haroldli/alist-tvbox:latest
 oddfar/campus-imaotai:latest
+yourok/torrserver:latest
+journey-ad/Bitmagnet-Next-Web:latest
